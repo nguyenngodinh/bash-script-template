@@ -1,0 +1,7 @@
+export RECORD_DB_HOST='10.61.153.114'
+export RECORD_DB_NAME='replay_database'
+export RECORD_DB_USER='postgres'
+export RECORD_DB_PORT=5869
+export RECORD_LIFE_CYCLE='data_record.object_lifecycle'
+export RECORD_OBJECT_EVENT='data_record.object_event'
+export RECORD_EXP_TIME=30
